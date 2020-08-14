@@ -43,7 +43,7 @@ I've been working on Mobile Application development for over 4 years and I reall
 
 <br/>
 
-- 📫 To reach me, [CLICK_HERE](https://mafs.me/)
+- 📫 To reach me, <a href="https://mafs.me/" target="_blank">CLICK_HERE</a>
 
 
 
