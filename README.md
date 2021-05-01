@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is [**Mafujul**](mafs.me), a Mobile Application developer from Hürth, Germany.<br/>
+This is <a href="https://mafs.me/" target="_blank">Mafujul</a>, a Mobile Application developer from Hürth, Germany.<br/>
 I've been working on Mobile Application development for over 4 years and I really enjoy making beautiful apps 💚<br/><br/>
 <br/><br/>
 ### 🛠️ My favorite tech stack:
