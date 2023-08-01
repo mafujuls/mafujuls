@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 This is <a href="https://mafujuls.github.io/" target="_blank">Mafujul</a>, a Mobile Application developer from Hürth, Germany.<br/>
-I've been working on Mobile Application development for over 6 years and I really enjoy making beautiful apps 💚<br/><br/>
+I've been working on Mobile Application development for over 7 years and I really enjoy making beautiful apps 💚<br/><br/>
 <br/><br/>
 ### 🛠️ My favorite tech stack:
 
