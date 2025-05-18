@@ -21,16 +21,16 @@ I've been working on Mobile Application development for over 7 years and I reall
         <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
       </td>
       <td width="12.5%" align="center">
+        <span>Kotlin Multiplatform</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+      </td>
+      <td width="12.5%" align="center">
         <span>Flutter</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
       <td width="12.5%" align="center">
         <span>Dart</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
-      </td>
-      <td width="12.5%" align="center">
-        <span>Kotlin Multiplatform</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
       </td>
       <td width="12.5%" align="center">
         <span>Python</span><br><br><br>
