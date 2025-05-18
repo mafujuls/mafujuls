@@ -39,8 +39,6 @@ I've been working on Mobile Application development for over 7 years and I reall
     </tr>
       </tbody>
 </table>
-
-
 <br/>
 
 
